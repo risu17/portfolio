@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <rect width="400" height="400" fill="#f4f4f4" />
+  <!-- Minimalist Grayscale Profile Portrait Representation -->
+  <circle cx="200" cy="200" r="190" fill="#ffffff" stroke="#000000" stroke-width="2" />
+  <g fill="#1a1a1a">
+    <!-- Head / Hair -->
+    <path d="M140,165 C135,115 160,90 200,90 C240,90 265,115 260,165 C255,160 250,135 235,120 C220,105 180,105 165,120 C150,135 145,160 140,165 Z" fill="#000000" />
+    <!-- Face Contour -->
+    <path d="M150,150 C150,215 170,235 200,235 C230,235 250,215 250,150 C250,130 240,120 200,120 C160,120 150,130 150,150 Z" fill="#e8e8e8" stroke="#000000" stroke-width="1.5" />
+    <!-- Eyebrows & Eyes (minimal) -->
+    <path d="M168,155 Q180,152 188,155" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <path d="M212,155 Q220,152 232,155" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <circle cx="178" cy="165" r="3.5" fill="#000000" />
+    <circle cx="222" cy="165" r="3.5" fill="#000000" />
+    <!-- Nose line -->
+    <path d="M200,165 L197,185 L203,185" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Subtle Mouth -->
+    <path d="M188,205 Q200,212 212,205" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" />
+    <!-- Neck -->
+    <path d="M185,230 L185,260 L215,260 L215,230" fill="#d9d9d9" stroke="#000000" stroke-width="1.5" />
+    <!-- Shoulders / Torso -->
+    <path d="M110,340 C110,285 150,260 185,260 L215,260 C250,260 290,285 290,340 Z" fill="#222222" stroke="#000000" stroke-width="2" />
+    <!-- Collar / Shirt Detail -->
+    <polygon points="200,280 185,260 215,260" fill="#ffffff" stroke="#000000" stroke-width="1.5" />
+    <line x1="200" y1="280" x2="200" y2="340" stroke="#ffffff" stroke-width="1.5" />
+  </g>
+</svg>
